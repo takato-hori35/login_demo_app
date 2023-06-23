@@ -1,7 +1,7 @@
 [submodule "api"]
 	path = api
-	url = ./api
+	url = https://github.com/takato-hori35/login_demo_app_api
 
 [submodule "front"]
 	path = front
-	url = ./front
+	url = https://github.com/takato-hori35/login_demo_app_front
